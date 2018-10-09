@@ -1,0 +1,2 @@
+# FastBuy
+Supermarket optimization app
